@@ -27,5 +27,5 @@ This is useful for scaling applications by distributing traffic across multiple 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-reverse-proxy-load-balancer.git
-   cd simple-reverse-proxy-load-balancer
+   git clone https://github.com/phantomsoldierking/GO_loadbalancer.git
+   cd GO_loadbalancer
